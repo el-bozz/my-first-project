@@ -1,2 +1,3 @@
-# my-first-project
-my first project
+# My First GitHub Project
+
+I am learning GitHub and cybersecurity.
