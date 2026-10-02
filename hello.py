@@ -1,4 +1,4 @@
 name = "Effiong"
 
-print("Hello, " + name)
+print("Hello, " + nme)
 print("I am learning Python and GitHub.")
